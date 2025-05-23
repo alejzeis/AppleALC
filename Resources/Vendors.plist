@@ -25,6 +25,8 @@
 	<key>SigmaTel</key>
 	<integer>33668</integer>
 	<key>VIA</key>
-	<integer>4358</integer>
+        <integer>4358</integer>
+        <key>QEMU</key>
+        <integer>6900</integer>
 </dict>
 </plist>

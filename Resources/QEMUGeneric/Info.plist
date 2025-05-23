@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>alejzeis</string>
+	<key>CodecID</key>
+	<integer>26</integer>
+	<key>CodecName</key>
+	<string>QEMUGeneric</string>
+	<key>Files</key>
+	<dict>
+		<key>Layouts</key>
+		<array>
+			<dict>
+				<key>Comment</key>
+				<string>ICH9 HDA-Duplex Layout</string>
+				<key>Id</key>
+				<integer>91</integer>
+				<key>Path</key>
+				<string>layout91.xml.zlib</string>
+			</dict>
+    		</array>
+		<key>Platforms</key>
+		<array>
+			<dict>
+				<key>Comment</key>
+				<string>HDA-Duplex ICH9 QEMU HDA Device</string>
+				<key>Id</key>
+				<integer>91</integer>
+				<key>Path</key>
+				<string>Platforms91.xml.zlib</string>
+			</dict>
+    		</array>
+                </dict>
+        <key>Comment</key>
+        <string>Used layout16/platform16 from ALC662 as starting point</string>
+	<key>Patches</key>
+	<array>
+	</array>
+	<key>Revisions</key>
+        <array>
+		<integer>1048833</integer>
+	</array>
+	<key>Vendor</key>
+	<string>QEMU</string>
+</dict>
+</plist>
